@@ -21,7 +21,15 @@ Day 2
 
 
 
-Day 3
+Day 3: 
+
+Case Study 
+
+Part A: 15 min (Deploy 1 arm template)
+https://github.com/microsoft/MCW-Cosmos-DB-Real-Time-Advanced-Analytics/blob/main/Hands-on%20lab/HOL%20step-by%20step%20-%20Cosmos%20DB%20real-time%20advanced%20analytics.md
+
+Part B: 4-4.5 hours + 
+https://github.com/microsoft/MCW-Cosmos-DB-Real-Time-Advanced-Analytics/blob/main/Hands-on%20lab/HOL%20step-by%20step%20-%20Cosmos%20DB%20real-time%20advanced%20analytics.md
 
 
 
